@@ -1,0 +1,136 @@
+﻿Country,Total_Gold_Medals,Total_Silver_Medals,Total_Bronze_Medals,Total_Medals
+United States,1677,1763,1419,4859
+China,1140,960,540,2640
+Japan,1215,630,765,2610
+ROC,620,868,713,2201
+Great Britain,616,588,616,1820
+Australia,544,224,704,1472
+Italy,340,340,680,1360
+Germany,320,352,512,1184
+France,320,384,352,1056
+Netherlands,240,288,336,864
+Canada,189,162,297,648
+Brazil,147,126,168,441
+Republic of Korea,102,68,170,340
+Spain,54,144,108,306
+Poland,76,95,95,266
+New Zealand,91,78,91,260
+Hungary,78,91,91,260
+Ukraine,10,60,120,190
+Switzerland,27,36,54,117
+Lucena/Dalhausser,39,41,33,113
+Gibb/Bourne,39,41,33,113
+Claes/Sponcil,39,41,33,113
+April/Alix,39,41,33,113
+Denmark,24,32,32,88
+Wang/X.Y.Xia,38,32,18,88
+XU Xin / LIU Shiwen,38,32,18,88
+Xue/Wang X.X.,38,32,18,88
+Chinese Taipei,12,24,36,72
+Makroguzova/Kholomina,20,28,23,71
+Krasilnikov/Stoyanovskiy,20,28,23,71
+Leshukov/Semenov,20,28,23,71
+Belgium,30,10,30,70
+Egypt,11,11,44,66
+Gottsu/Shiratori,27,14,17,58
+Ishii/Murakami,27,14,17,58
+MIZUTANI Jun / ITO Mima,27,14,17,58
+Sweden,18,36,0,54
+Serbia,18,6,30,54
+Turkey,8,8,36,52
+Belarus,7,21,21,49
+"Hong Kong, China",8,16,24,48
+HU Heming / TAPPER Melissa,17,7,22,46
+Artacho Del Solar/Clancy,17,7,22,46
+NULL,10,18,18,46
+McHugh/Schumann,17,7,22,46
+Jamaica,20,5,20,45
+India,6,12,24,42
+Carambula/Rossi,10,10,20,40
+Menegatti/Orsi Toth,10,10,20,40
+Nicolai/Lupo,10,10,20,40
+Ludwig/Kozuch,10,11,16,37
+Thole J./Wickler,10,11,16,37
+Sude/Borger,10,11,16,37
+FRANZISKA Patrick / SOLJA Petrissa,10,11,16,37
+Keizer/Meppelink,10,12,14,36
+Brouwer/Meeuwsen,10,12,14,36
+Stam/Schoon,10,12,14,36
+South Africa,12,24,0,36
+LEBESSON Emmanuel / YUAN Jia Nan,10,12,11,33
+Czech Republic,12,12,9,33
+Mexico,0,0,32,32
+Kenya,12,12,6,30
+Austria,4,4,20,28
+Bansley/Brandie,7,6,11,24
+Argentina,0,8,16,24
+Ireland,12,0,12,24
+Greece,12,6,6,24
+Pavan/Melissa,7,6,11,24
+Kazakhstan,0,0,24,24
+WANG Zhen / ZHANG Mo,7,6,11,24
+Evandro/Bruno Schmidt,7,6,8,21
+Islamic Rep. of Iran,9,6,6,21
+Agatha/Duda,7,6,8,21
+Alison/Alvaro Filho,7,6,8,21
+Ana Patricia/Rebecca,7,6,8,21
+Israel,10,0,10,20
+Korea,6,4,10,20
+SZUDI Adam / PERGEL Szandra,6,7,7,20
+LEE Sangsu / JEON Jihee,6,4,10,20
+Liliana/Elsa,3,8,6,17
+Herrera/Gavira,3,8,6,17
+Croatia,6,6,4,16
+Norway,8,4,4,16
+Lidy/Leila,7,3,5,15
+Cuba,7,3,5,15
+Dominican Rep.,0,9,6,15
+Colombia,0,12,3,15
+CAMPOS Jorge / FONSECA Daniela,7,3,5,15
+Bryl/Fijalek,4,5,5,14
+Kantor/Losiak,4,5,5,14
+Huberli/Betschart,3,4,6,13
+Heidrich/Gerson,3,4,6,13
+"Verge-Depre, A./Heidrich",3,4,6,13
+LIN Yun Ju / CHENG I Ching,2,4,6,12
+Romania,3,9,0,12
+Perusic/Schweiner,4,4,3,11
+Hermannova/Slukova,4,4,3,11
+Indonesia,2,2,6,10
+Makokha/Khadambi,4,4,2,10
+Slovenia,6,2,2,10
+Mol A./Sorum C.,4,2,2,8
+Mongolia,0,2,6,8
+Nigeria,0,4,4,8
+Portugal,2,2,4,8
+FEGERL Stefan / POLCANOVA Sofia,1,1,5,7
+ACHANTA Kamal / BATRA Manika,1,2,4,7
+Azerbaijan,0,3,4,7
+ASSAR Omar / MESHREF Dina,1,1,4,6
+Bulgaria,3,1,2,6
+Tunisia,3,3,0,6
+WONG Chun Ting / DOO Hoi Kem,1,2,3,6
+Uzbekistan,3,0,2,5
+Venezuela,1,3,0,4
+PISTEJ Lubomir / BALAZOVA Barbora,1,2,1,4
+Fiji,2,0,2,4
+Gaxiola/Rubio,0,0,4,4
+IONESCU Ovidiu / SZOCS Bernadette,1,3,0,4
+Gallay/Pereyra,0,1,2,3
+Cherif/Ahmed,2,0,1,3
+Ecuador,2,1,0,3
+Azaad/Capogrosso,0,1,2,3
+Bahamas,2,0,0,2
+Estonia,1,0,1,2
+Graudina/Kravcenoka,1,0,1,2
+Plavins/Tocs,1,0,1,2
+Malaysia,0,1,1,2
+Lithuania,0,2,0,2
+Latvia,1,0,1,2
+Puerto Rico,1,0,0,1
+Rep. of Moldova,0,0,1,1
+Saudi Arabia,0,1,0,1
+Ghana,0,0,1,1
+Bahrain,0,1,0,1
+Botswana,0,0,1,1
+Abicha/Elgraoui,1,0,0,1
