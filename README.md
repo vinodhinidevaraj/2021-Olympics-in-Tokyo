@@ -6,7 +6,8 @@ The dataset encapsulates the intricacies of one of the most anticipated global e
 Our analysis delved into various facets of the 2020 Tokyo Olympics using a comprehensive dataset comprising five Excel files. We conducted rigorous examinations, including Medal Analysis, Gender Analysis, Participation Analysis, Discipline Analysis and Coach Analysis. Through meticulous data exploration and statistical inference, we sought to elucidate patterns, trends, and insights within the realm of Olympic participation, performance, and coaching dynamics. This endeavour exemplifies our commitment to leveraging data-driven methodologies to derive actionable insights and inform strategic decision-making within the realm of global sporting events.
 
 **Medal Analysis**:
-[Medal Analysis.pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968322/Medal.Analysis.pdf) 
+
+![Medal Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/494c71c9-12e1-40c7-8820-190e1d356ed1)
 
 The Medal Analysis conducted reveals the total number of gold, silver, and bronze medals won by each country in the 2020 Tokyo Olympics. The output showcases the top-performing nations in terms of overall medal count, highlighting their achievements and standings on the global stage of athletic competition. Leading the tally is the United States, with an impressive total of 4859 medals, followed closely by China and Japan. The analysis provides valuable insights into the distribution of medals among participating countries, shedding light on the competitive landscape and highlighting key contenders for Olympic glory.
 
