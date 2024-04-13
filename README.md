@@ -1,4 +1,4 @@
-"Exploring the Diversity and Scale of the 2021(2020) Tokyo Olympics: A Comprehensive Dataset Analysis"
+# Exploring the Diversity and Scale of the 2021(2020) Tokyo Olympics: A Comprehensive Dataset Analysis
 
 **Introduction**
 The dataset encapsulates the intricacies of one of the most anticipated global events, the 2020 Tokyo Olympics, which were uniquely postponed to 2021 in response to unprecedented global challenges posed by the COVID-19 pandemic. Within its vast expanse lie the stories of over 11,000 athletes, each representing their nations across 47 distinct disciplines, fostering a spirit of unity and competition on the grandest stage. Furthermore, the inclusion of 743 teams underscores the collaborative efforts and collective aspirations of athletes from around the world, making this dataset a treasure trove of insights into the global spectacle of athleticism and camaraderie.
