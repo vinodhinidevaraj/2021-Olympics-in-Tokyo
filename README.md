@@ -1,9 +1,9 @@
 # Exploring the Diversity and Scale of the 2021(2020) Tokyo Olympics: A Comprehensive Dataset Analysis
 
 **Introduction**
-The dataset encapsulates the intricacies of one of the most anticipated global events, the 2020 Tokyo Olympics, which were uniquely postponed to 2021 in response to unprecedented global challenges posed by the COVID-19 pandemic. Within its vast expanse lie the stories of over 11,000 athletes, each representing their nations across 47 distinct disciplines, fostering a spirit of unity and competition on the grandest stage. Furthermore, the inclusion of 743 teams underscores the collaborative efforts and collective aspirations of athletes from around the world, making this dataset a treasure trove of insights into the global spectacle of athleticism.
+The dataset encapsulates the intricacies of the 2020 Tokyo Olympics, uniquely postponed to 2021 due to the COVID-19 pandemic. With over 11,000 athletes across 47 disciplines and 743 teams, it provides insights into global athleticism and collaboration.
 
-Our analysis delved into various facets of the 2020 Tokyo Olympics using a comprehensive dataset comprising five Excel files. We conducted rigorous examinations, including Medal Analysis, Gender Analysis, Participation Analysis, Discipline Analysis and Coach Analysis. Through meticulous data exploration and statistical inference, we sought to elucidate patterns, trends, and insights within the realm of Olympic participation, performance, and coaching dynamics. This endeavour exemplifies our commitment to leveraging data-driven methodologies to derive actionable insights and inform strategic decision-making within the realm of global sporting events.
+Our analysis utilized five Excel files, undergoing an Extract, Transform, Load (ETL) process to ensure data consistency and accuracy. We conducted rigorous examinations, including Medal, Gender, Participation, Discipline, and Coach Analysis, leveraging data-driven methodologies to derive actionable insights into Olympic participation and performance.
 
 **Data Source**:
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?select=Athletes.xlsx
