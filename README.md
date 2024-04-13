@@ -5,6 +5,10 @@ The dataset encapsulates the intricacies of one of the most anticipated global e
 
 Our analysis delved into various facets of the 2020 Tokyo Olympics using a comprehensive dataset comprising five Excel files. We conducted rigorous examinations, including Medal Analysis, Gender Analysis, Participation Analysis, Discipline Analysis and Coach Analysis. Through meticulous data exploration and statistical inference, we sought to elucidate patterns, trends, and insights within the realm of Olympic participation, performance, and coaching dynamics. This endeavour exemplifies our commitment to leveraging data-driven methodologies to derive actionable insights and inform strategic decision-making within the realm of global sporting events.
 
+**Data Source**:
+https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?select=Athletes.xlsx
+The provided Kaggle link serves as the primary data source for the 2021 Olympics held in Tokyo.
+
 **Medal Analysis**:
 
 ![Medal Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/ff676151-c409-4054-a1f8-81749bd381a0)
