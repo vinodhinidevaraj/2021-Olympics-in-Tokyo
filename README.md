@@ -19,16 +19,19 @@ The Medal Analysis conducted reveals the total number of gold, silver, and bronz
 The Gender Analysis conducted reveals the distribution of participants across different disciplines in the 2020 Tokyo Olympics dataset, segmented by gender. Notably, disciplines such as Athletics, Swimming, and Football showcase a relatively balanced representation of male and female athletes, with significant participation from both genders. Conversely, disciplines like Artistic Swimming and Rhythmic Gymnastics demonstrate a predominance of female participants, reflecting the diverse landscape of gender representation in Olympic sports. By examining the gender distribution across various disciplines, this analysis provides valuable insights into the level of inclusivity and diversity within different sports at the Olympic Games.
 
 **Participation Analysis**:
-[Participation Analysis.pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968326/Participation.Analysis.pdf)
+
+![Participation Anlaysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/f7c2cab3-21cd-4ce7-845e-d62728da81a0)
 
 The Participant Analysis provides insights into the representation of athletes and coaches from each country in the 2020 Tokyo Olympics dataset. Notably, countries like the United States of America, Japan, and Australia boast significant participation levels, with a substantial number of athletes and coaches contributing to their respective delegations. The analysis highlights the extensive global reach of the Olympics, with countries from diverse regions such as Europe, Asia, and Oceania showcasing their sporting talent on the international stage. By quantifying the total number of athletes and coaches from each country, this analysis offers valuable insights into the scale and scope of participation in the Olympic Games, reflecting the spirit of unity and competition among nations.
 
-**Coach and Participation Analysis**:
-[Coach and Participation Analysis.pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968332/Coach.and.Participation.Analysis.pdf)
+**Coach and Discipline Analysis**:
+
+![Coach and Discipline Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/d2add328-328e-4939-a27f-8907243c3ed1)
 
 The output from the Coach and Discipline Analysis reveals the distribution of coaches across different disciplines in the 2020 Tokyo Olympics dataset. Each discipline is associated with a certain number of coaches, providing insights into the allocation of coaching resources and expertise across various sports. Notably, disciplines like Basketball, Football, and Volleyball exhibit higher coach densities, indicating a greater focus on coaching support and guidance within these sports. Conversely, disciplines such as Baseball/Softball and Rugby Sevens demonstrate relatively lower coach counts, reflecting differences in coaching emphasis and specialization across Olympic disciplines. This analysis offers valuable insights into the distribution and allocation of coaching resources within the Olympic context, highlighting areas of coaching concentration and specialization across diverse sporting disciplines.
 
 **Discipline and Medal Analysis**:
-[Discipline and medals Analysis .pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968341/Discipline.and.medals.Analysis.pdf)
+
+![Discipline and Medal Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/5febc849-8613-439c-bd05-f123b13b9dda)
 
 The Discipline and Medal Analysis provides insights into the distribution of athletes and medal achievements across various disciplines in the 2020 Tokyo Olympics dataset. Each discipline is associated with a certain number of athletes, as well as the total number of gold, silver, and bronze medals won. Notably, disciplines such as Athletics, Swimming, and Rowing boast a high number of athletes and medals, reflecting their prominence and significance in the Olympic Games. Conversely, disciplines like Surfing, Trampoline Gymnastics, and Cycling BMX Racing demonstrate relatively lower athlete counts and medal achievements, highlighting their niche status within the Olympic landscape. This analysis offers valuable insights into the diversity and competitiveness of different sports at the Olympic Games, showcasing the range of athletic talent and achievements across various disciplines.
