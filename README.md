@@ -13,6 +13,7 @@ The Medal Analysis conducted reveals the total number of gold, silver, and bronz
 
 
 **Gender Analysis**:
+
 ![Gender Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/e4dd446b-9fa7-49ca-bebf-e5511471c186)
 
 The Gender Analysis conducted reveals the distribution of participants across different disciplines in the 2020 Tokyo Olympics dataset, segmented by gender. Notably, disciplines such as Athletics, Swimming, and Football showcase a relatively balanced representation of male and female athletes, with significant participation from both genders. Conversely, disciplines like Artistic Swimming and Rhythmic Gymnastics demonstrate a predominance of female participants, reflecting the diverse landscape of gender representation in Olympic sports. By examining the gender distribution across various disciplines, this analysis provides valuable insights into the level of inclusivity and diversity within different sports at the Olympic Games.
