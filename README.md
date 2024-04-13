@@ -7,7 +7,7 @@ Our analysis delved into various facets of the 2020 Tokyo Olympics using a compr
 
 **Medal Analysis**:
 
-![Medal Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/494c71c9-12e1-40c7-8820-190e1d356ed1)
+![Medal Analysis](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/assets/145280558/ff676151-c409-4054-a1f8-81749bd381a0)
 
 The Medal Analysis conducted reveals the total number of gold, silver, and bronze medals won by each country in the 2020 Tokyo Olympics. The output showcases the top-performing nations in terms of overall medal count, highlighting their achievements and standings on the global stage of athletic competition. Leading the tally is the United States, with an impressive total of 4859 medals, followed closely by China and Japan. The analysis provides valuable insights into the distribution of medals among participating countries, shedding light on the competitive landscape and highlighting key contenders for Olympic glory.
 
