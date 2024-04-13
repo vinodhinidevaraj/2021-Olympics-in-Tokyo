@@ -17,7 +17,7 @@ Our analysis delved into various facets of the 2020 Tokyo Olympics using a compr
 [Participation Analysis.pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968326/Participation.Analysis.pdf)
 
 
-**Coach and Discipline Analysis**:
+**Coach and Participation Analysis**:
 [Coach and Participation Analysis.pdf](https://github.com/vinodhinidevaraj/2021-Olympics-in-Tokyo/files/14968332/Coach.and.Participation.Analysis.pdf)
 
 
