@@ -30,28 +30,16 @@ LEFT JOIN
 
 
 -- Medal Analysis: Calculating the total number of gold, silver, and bronze medals won by each country
-
 SELECT 
-    Team_Name AS Country,
-    SUM(Gold) AS Total_Gold_Medals,
-    SUM(Silver) AS Total_Silver_Medals,
-    SUM(Bronze) AS Total_Bronze_Medals,
-    SUM(Gold + Silver + Bronze) AS Total_Medals
+    M.Team_NOC AS Country,
+    SUM(M.Gold) AS Total_Gold_Medals,
+    SUM(M.Silver) AS Total_Silver_Medals,
+    SUM(M.Bronze) AS Total_Bronze_Medals,
+    SUM(M.Gold + M.Silver + M.Bronze) AS Total_Medals
 FROM 
-    (
-    SELECT 
-        M.Team_NOC AS Team_NOC,
-        M.Gold AS Gold,
-        M.Silver AS Silver,
-        M.Bronze AS Bronze,
-        T.Name AS Team_Name
-    FROM 
-        Medals M
-    LEFT JOIN 
-        Teams T ON M.Team_NOC = T.NOC
-    ) AS MedalData
+    Medals M
 GROUP BY 
-    Team_Name
+    M.Team_NOC
 ORDER BY 
     Total_Medals DESC;
 
